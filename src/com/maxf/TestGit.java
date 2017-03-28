@@ -3,7 +3,7 @@ package com.maxf;
 public class TestGit {
 	
 	public static void main(String[] args) {
-		System.out.println(1);
+		System.out.println(18);
 		System.out.println(0);
 		System.out.println(99);
 		System.out.println(3);
