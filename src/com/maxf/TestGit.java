@@ -26,6 +26,7 @@ public class TestGit {
 		System.out.println(6);
 		System.out.println(4);
 		System.out.println(0);
+		System.out.println(98);
 		System.out.println(1);
 	}
 }
