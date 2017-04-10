@@ -17,6 +17,7 @@ public class TestGit {
 		System.out.println(8);
 		System.out.println(8);
 		System.out.println(9);
+		System.out.println(10);
 		System.out.println(9);
 		System.out.println(0);
 		System.out.println(1);
